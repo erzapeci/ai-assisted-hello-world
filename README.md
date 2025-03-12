@@ -1,6 +1,6 @@
 # ai-assisted-hello-world
  1️⃣ Cilin gjuhë programimi zgjodhe dhe pse?
-Zgjodha **JavaScript**, sepse është një gjuhë e fuqishme dhe fleksibile për **aplikacione web** dhe **backend**. Është e lehtë për t'u përdorur dhe ka një ekosistem të pasur me libra të gatshëm.  
+Zgjodha JavaScript, sepse është një gjuhë e fuqishme dhe fleksibile për aplikacione web dhe backend. Është e lehtë për t'u përdorur dhe ka një ekosistem të pasur me libra të gatshëm.  
 
  2️⃣ Si e përdora AI-në?
  Përdora AI për të gjeneruar kodin bazë.  
@@ -8,7 +8,7 @@ Zgjodha **JavaScript**, sepse është një gjuhë e fuqishme dhe fleksibile për
  Sugjeroi mënyra të sakta për të marrë dhe shfaqur datën aktuale.  
 
  3️⃣ Cilat sugjerime nga AI ishin të dobishme?
- Përdorimi i **readline** për të marrë input nga përdoruesi.  
+ Përdorimi i readline për të marrë input nga përdoruesi.  
  Shtimi i një funksioni për të përshëndetur përdoruesin me emër.  
 Shfaqja e datës aktuale me **new Date()**.  
 
@@ -18,7 +18,7 @@ Shfaqja e datës aktuale me **new Date()**.
 
  5️⃣ Çfarë mësova?
  AI është shumë i dobishëm për të përshpejtuar kodimin dhe për të dhënë ide më të mira.  
- Duhet të **rishikoj** kodin për t'u siguruar që sugjerimet janë të sakta dhe të optimizuara.  
- **JavaScript** është një gjuhë fleksibile për projekte të vogla dhe të mëdha.  
+ Duhet të rishikoj kodin për t'u siguruar që sugjerimet janë të sakta dhe të optimizuara.  
+ JavaScript është një gjuhë fleksibile për projekte të vogla dhe të mëdha.  
 
 
